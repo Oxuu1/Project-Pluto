@@ -16,10 +16,13 @@ Go to Host and Click Launch
 
 How to Play 
 
-
 ![image](https://github.com/Oxuu1/Project-Pluto/assets/65877374/dc0926f2-67b6-48e7-bea2-99cd5d1e8cd0)
 
 Click Local then Launch offline
+
+Press F3 To go into game thanks to Rift For ingame dll
+
+Skins Coming Soon!
 
 # Hosting Multiplayer
 
