@@ -1,9 +1,9 @@
 # Project-Pluto-
---------------------------
+
 A Universal Fortnite Launcher And Hoster
 
 # Multiplayer 
---------------------------
+
 
 How to Host
 
@@ -15,7 +15,7 @@ Go to Host and Click Launch
 ![image](https://github.com/Oxuu1/Project-Pluto/assets/65877374/11b64373-c02a-46d0-9051-d958293e02f3)
 
 # Single PLay
---------------------------
+
 
 How to Play 
 
@@ -28,11 +28,18 @@ Press F3 To go into game thanks to Rift For ingame dll
 Skins Coming Soon!
 
 # Hosting Multiplayer
---------------------------
+
 
 Make Sure you Have the Game Server DLL 
 
 Best GameServerDll is https://github.com/Milxnor/Project-Reboot-3.0
+
+
+# Bugs 
+
+Season 7 Dont Work at All Im gunna Fix
+
+
 
 Season 7 is Bugged 
 
