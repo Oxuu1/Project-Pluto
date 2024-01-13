@@ -37,10 +37,6 @@ Best GameServerDll is https://github.com/Milxnor/Project-Reboot-3.0
 
 # Bugs 
 
-Season 7 Dont Work at All Im gunna Fix
-
-
-
 Season 7 is Bugged 
 
 to join a game open console and type open 127.0.0.1
